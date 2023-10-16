@@ -1,5 +1,5 @@
 <h1>Olá, me chamo Gabriela Rebeca!</h1>
-<h2>Meu atual objetivo está em desenvolvimento Front-End mas gosto de ter algumas noções em desenvolvimento back-end.</h2>
+<h2>Meu atual objetivo está em desenvolvimento Front-End e noções em desenvolvimento Back-End.</h2>
 
 <h3>Sobre mim:</h3>
 <p> - Sou formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 

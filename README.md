@@ -2,9 +2,9 @@
 <h2>Desenvolvimento Front-End e noções em back-end.</h2>
 
 <h3>Sobre mim:</h3>
-- Formada em Tecnologia da Informação pelo Centro Paula Souza.
-- Atualmente cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
-- Sorocaba - São Paulo
+<p> Formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 
+<p> Atualmente cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista.</p> 
+<p> Sorocaba - São Paulo</p> 
 
 <h3>Softwares de Edição de Imagem:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"  width="40" height="40"/>

@@ -1,10 +1,10 @@
 <h1>Olá, me chamo Gabriela Rebeca!</h1>
-<h2>Desenvolvimento Front-End e noções em back-end.</h2>
+<h2>Meu atual objetivo é no desenvolvimento em Front-End mas gosto de ter algumas noções em desenvolvimento back-end.</h2>
 
 <h3>Sobre mim:</h3>
-<p> Formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 
-<p> Atualmente cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista.</p> 
-<p> Sorocaba - São Paulo</p> 
+<p> Sou formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 
+<p> Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista.</p> 
+<p> Moro em Sorocaba - SP </p> 
 
 <h3>Softwares de Edição de Imagem:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"  width="40" height="40"/>

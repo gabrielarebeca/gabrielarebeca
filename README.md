@@ -1,5 +1,5 @@
-<p>Olá, me chamo Gabriela Rebeca!</p>
-<p>Desenvolvimento Front-End e noções em back-end.</p>
+<h2>Olá, me chamo Gabriela Rebeca!</h2>
+<h1>Desenvolvimento Front-End e noções em back-end.</h1>
 
 <p>Sobre mim:</p>
 

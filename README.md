@@ -4,13 +4,13 @@
 <p>:bulb: - Meu atual objetivo está em desenvolvimento Front-End e noções em desenvolvimento Back-End.</p>
 <p>:mortar_board: - Sou formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 
 <p>:computer: - Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista.</p> 
-<p>:house: - Moro no interior de São Paulo.</p> 
+<p>:house: - Interior de São Paulo.</p> 
 
 <h3>Softwares de Edição de Imagem:</h3>
 <div>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <!--illustrator-->
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> <!--photoshop-->
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> <!--canva-->
 </div>
 
 <h3>Tecnologias em que estou me aprofundando:</h3>

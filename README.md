@@ -3,7 +3,7 @@
 <h3>Sobre mim:</h3>
 <p>:bulb: - Desenvolvimento Front-End e noções em desenvolvimento Back-End.</p>
 <p>:mortar_board: - Formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 
-<p>:computer: - Cursando Análise e Desenvolvimento de Sistemas pela UNIP.</p> 
+<p>:computer: - Superior em Análise e Desenvolvimento de Sistemas pela UNIP.</p> 
 <p>:house: - Interior de São Paulo.</p> 
 
 <h3>Editores de Imagem:</h3>

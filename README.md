@@ -4,7 +4,7 @@
 <p>:bulb: - Desenvolvimento Front-End e noções em desenvolvimento Back-End.</p>
 <p>:mortar_board: - Formada em Tecnologia da Informação pelo Centro Paula Souza.</p> 
 <p>:computer: - Superior em Análise e Desenvolvimento de Sistemas pela UNIP.</p> 
-<p>:house: - Interior de São Paulo.</p> 
+<p>:house: - São Paulo.</p> 
 
 <h3>Editores de Imagem:</h3>
 <div>

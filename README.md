@@ -27,7 +27,7 @@
 <h3>Contato:</h3>
 <div>
 <a href = "mailto:gabirmsoares@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--gmail-->
-<a href = "https://www.linkedin.com/in/gabsmart" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--linkedin-->
+<a href = "https://www.linkedin.com/in/gabrielarmsoares/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--linkedin-->
 </div>
 
 <!--lista de imagens: https://github.com/alexandresanlim/Badges4-README.md-Profile#-static-->

@@ -1,9 +1,9 @@
 # 👋 Olá, me chamo Gabriela Rebeca!
 
 ## 💡 Sobre Mim:
-- 👩‍💻 **Desenvolvimento Front-End** com noções em **Back-End**.
+- 👩‍💻 **Desenvolvimento de Sistemas**
 - 🎓 **Formada em Tecnologia da Informação** pelo **Centro Paula Souza**.
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** pela **UNIP**.
+- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** pela **UNIP**.
 - 🌍 Baseada em **São Paulo**.
 
 ---
